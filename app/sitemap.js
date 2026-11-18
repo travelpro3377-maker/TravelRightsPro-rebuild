@@ -1,0 +1,1 @@
+export default function sitemap(){const base='https://travelrightspro.com';const pages=['','/check','/rights','/deals','/privacy','/terms','/disclosure'].map(path=>({url:`${base}${path}`,lastModified:new Date()}));return pages}
