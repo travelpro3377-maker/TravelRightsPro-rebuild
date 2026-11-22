@@ -43,8 +43,8 @@ export default function Home() {
 
       <section className="wrap offer-section">
         <div className="offer-card">
-          <div className="offer-copy"><div className="eyebrow blue">For travelers who want clarity now</div><h2>Get your Travel Rights Report</h2><p>Share the basics of your trip and receive a structured, educational report covering the rules worth checking, documents to gather, questions to ask, and practical next steps.</p><div className="offer-points"><span>✓ Trip-specific issue summary</span><span>✓ Evidence checklist</span><span>✓ Escalation path</span></div></div>
-          <div className="offer-price"><small>ONE-TIME PURCHASE</small><strong>$19</strong><span>No subscription. No claim percentage.</span><a className="btn" href="/check">Build my report →</a></div>
+          <div className="offer-copy"><div className="eyebrow blue">Launch offer · no subscription</div><h2>Get a clear next step for $19.</h2><p>Share the basics of your trip and receive a structured, educational report covering the rules worth checking, documents to gather, questions to ask, and practical next steps.</p><div className="offer-points"><span>✓ Trip-specific issue summary</span><span>✓ Evidence checklist</span><span>✓ Escalation path</span></div></div>
+          <div className="offer-price"><small>ONE-TIME PURCHASE</small><strong>$19</strong><span>No subscription. No claim percentage.</span><a className="btn" href="/check">Build my report →</a><a className="text-link" href="/check?plan=priority">Need more help? Priority packet · $49 →</a></div>
         </div>
       </section>
 
